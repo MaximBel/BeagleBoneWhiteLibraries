@@ -5,4 +5,5 @@ Toolchain: GCC Linaro 4.9.4.
 
 I will be updated list of available high-level peripheral libraries for BB white every time, when I finish its reworking. Now available next libraries:
 -GPIO(test);
--UART(test).
+-UART(test);
+-PWM(test).
